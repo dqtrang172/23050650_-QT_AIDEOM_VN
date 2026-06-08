@@ -969,12 +969,6 @@ def page_home():
 </div>
 """, unsafe_allow_html=True)
 
-    agent_box("Trang chủ", [
-        "App được chia đúng 12 menu để bám đề, nhưng giao diện được làm theo kiểu dashboard sản phẩm thật chứ không chỉ là notebook dán lên web.",
-        "Các bài dễ dùng dữ liệu trực tiếp; các bài khó dùng mô phỏng gọn nhẹ để chạy ổn định trên máy cá nhân và Streamlit Cloud.",
-        "Khi nộp, đổi tên thư mục theo MSV_HọTên và nén toàn bộ folder."
-    ])
-
 PAGES = {
     "🏠 Trang chủ": page_home,
     "🌱 Bài 1 — Cobb-Douglas + AI": page_bai1,
