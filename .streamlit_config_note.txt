@@ -1,0 +1,2 @@
+Nếu deploy Streamlit Cloud, chỉ cần chọn file app.py.
+App đã dùng theme tự viết trong app.py nên không bắt buộc tạo thư mục .streamlit.
