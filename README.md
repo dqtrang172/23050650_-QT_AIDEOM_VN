@@ -32,12 +32,11 @@ MSV_HoTen_AIDEOM_VN/
 ├── run_app.bat
 ├── run_app.sh
 ├── data/
-│   ├── vietnam_macro_2020_2025.csv
-│   ├── vietnam_sectors_2024.csv
-│   └── vietnam_regions_2024.csv
-└── reports/
-    └── HUONG_DAN_SU_DUNG.md
-```
+    ├── vietnam_macro_2020_2025.csv
+    ├── vietnam_sectors_2024.csv
+    └── vietnam_regions_2024.csv
+
+
 
 ## 3. Các chức năng chính
 
